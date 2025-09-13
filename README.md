@@ -42,7 +42,7 @@ accuracy.
 ### 1. Clone this repository
 
 ``` bash
-git clone https://github.com/your-username/audio-classification-application.git
+git clone https://github.com/angseesiang/audio-classification-application.git
 cd audio-classification-application
 ```
 
