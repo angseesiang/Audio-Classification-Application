@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ### 4. Run the application
 
 ``` bash
-python main.py
+python src/main.py
 ```
 
 This will: - Load the audio files - Extract MFCC features - Train a
@@ -75,7 +75,7 @@ classifier (SVM or NN) - Print model accuracy
 ### 5. Run tests
 
 ``` bash
-pytest test_audio_classifier.py
+pytest tests/test_audio_classifier.py
 ```
 
 ------------------------------------------------------------------------
